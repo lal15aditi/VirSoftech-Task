@@ -17,7 +17,7 @@
 .main>div {
     display: flex;
     justify-content: space-between;
-    min-width: 30%;
+    min-width: 35%;
     gap: 8px;
     text-align: left;
     border: 1px solid red;
