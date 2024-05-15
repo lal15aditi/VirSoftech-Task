@@ -18,7 +18,7 @@
     display: flex;
     justify-content: space-between;
     min-width: 30%;
-/*     max-width: 90%; */
+/*     max-width: 30%; */
     gap: 8px;
     text-align: left;
 /*     border: 1px solid red; */
@@ -38,6 +38,7 @@ button:hover {
 
 label {
     min-width: 120px;
+    max-width: 120px;
     text-align: left;
     align-self: start;
 }
