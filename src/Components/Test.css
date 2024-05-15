@@ -44,6 +44,7 @@ label {
 
 input, select {
     min-width: 160px;
+    max-width: 160px;
     padding: 1px;
 }
 
